@@ -10,7 +10,7 @@ function pixelSortFunction(a, b) {
   }
 
   if (yDiff < 0) {
-    // pixel a closer to the beginning of a row
+    // pixel a closer to the beginning of a row 
     return -1;
   }
 
